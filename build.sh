@@ -21,3 +21,11 @@
 /usr/bin/cat /tmp/ifcfg-ens33 > /etc/sysconfig/network-scripts/ifcfg-ens33
 /usr/bin/systemctl reboot
 /usr/sbin/ifconfig -a >> /tmp/firewallsinfo
+
+=============THIS CONTENT FROM FORKED REPOSITORY=================
+hi iam anil
+iam making small changes in this scrips
+thank you for sharing your code
+after using this code 
+i was able to run my application
+thank you
